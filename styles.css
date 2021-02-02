@@ -3,9 +3,6 @@ body {
     background-color: blanchedalmond;
     flex-direction: column;
     align-items: center;
-    
-    
-
 }
 
 h1{
@@ -19,7 +16,6 @@ h1{
     flex-direction: column;
     width: 30%;
     margin-top: 30px;
-    
 }
 
 .HeadText1{
@@ -29,7 +25,6 @@ h1{
     padding-right: 30px;
     padding-left: 30px;
     text-align: center;
-
 }
 
 
